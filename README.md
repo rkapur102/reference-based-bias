@@ -6,4 +6,4 @@ The datasets folder contains the context sensitive (context_sensitive.xlsx) and 
 
 The analyses folder contains all code for correlation calculations and figures in our paper. Figures 1 and 2 were generated from main_with_description_length.R, and Figures 3 and 4 (appendix) were generated from robustness_and_appendix.R
 
-Please email rheak@stanford.edu or rhea.kapur1@gmail.com with any inquiries. 
+Please email rheak@stanford.edu with any inquiries. 
