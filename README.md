@@ -1,6 +1,6 @@
-# Reference-Based Metrics Are Biased Against Blind and Low-Vision Users’ Image Description Preferences (BEST PAPER AWARD)
+# Reference-Based Metrics Are Biased Against Blind and Low-Vision Users’ Image Description Preferences
 
-This is the official Github repository for Kapur & Kreiss (2024): "Reference-Based Metrics Are Biased Against Blind and Low-Vision Users’ Image Description Preferences" published at the NLP for Positive Impact Workshop (NLP4PI) at EMNLP 2024 (https://aclanthology.org/2024.nlp4pi-1.26/). This work won a Best Paper Award.
+This is the official Github repository for Kapur & Kreiss (2024): "Reference-Based Metrics Are Biased Against Blind and Low-Vision Users’ Image Description Preferences" published at the NLP for Positive Impact Workshop (NLP4PI) at EMNLP 2024 (https://aclanthology.org/2024.nlp4pi-1.26/). **This work won a Best Paper Award.**
 
 The datasets folder contains the context sensitive (context_sensitive.xlsx) and context insensitive (context_insensitive.xlsx) datasets used in this work (as well as the expanded variation of the context sensitive dataset used in Section 4.2 in context_sensitive_expanded.xlsx). This folder also contains the code to generate these datasets (add_correlations.py, dataset_generation.R) from released data in Kreiss et al. (2022): "Context Matters for Image Descriptions for Accessibility: Challenges for Referenceless Evaluation Metrics."
 
